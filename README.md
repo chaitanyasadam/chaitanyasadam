@@ -88,45 +88,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sadam-Chaitanya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadam-Chaitanya&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadam-Chaitanya&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadam-Chaitanya&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sadam-Chaitanya/Sadam-Chaitanya/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sadam-Chaitanya&theme=darkhub&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 ### 💡 Quote of the Day
 
 <div align="center">
